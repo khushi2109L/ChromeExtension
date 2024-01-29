@@ -37,6 +37,7 @@ Control at Your Fingertips: Whether it's saving thoughts instantly or refreshing
 🚀 Upgrade Your TabScribe Experience Today
 
 Ready to elevate your tab management game? Dive into the world of QuickScribe and WipeSlate – where simplicity meets control.
+🔗 Check it out: https://khushi2109l.github.io/ChromeExtension/
 
 🚀 TabScribe: Simple, Powerful, Yours
 
